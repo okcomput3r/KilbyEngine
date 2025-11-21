@@ -5,6 +5,7 @@ cmake_minimum_required(VERSION 3.23)
 
 set(CMAKE_GENERATOR "Ninja" CACHE INTERNAL "" FORCE)
 
+
 # Define the project
 project(
 	KylbyEngine
